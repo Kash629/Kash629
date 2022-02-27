@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Kash
+- 👀 I’m interested in learning Python, Bash and cyber security
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on anybody to build a great network
+- 📫 You can reach me via Twitter: @404_linus
