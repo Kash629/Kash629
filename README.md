@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kash
+- 👋 Hi, I’m Moldy
 - 👀 I’m interested in learning reverse engeneering, Bash and cyber security
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on anybody to build a great network
