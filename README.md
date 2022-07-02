@@ -2,4 +2,4 @@
 - 👀 I’m interested in learning reverse engeneering, Bash and cyber security
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on anybody to build a great network
-- 📫 You can reach me via Twitter: @404_linus
+- 📫 You can reach me via Twitter: @404_Kash
